@@ -1,0 +1,1 @@
+This NLP-based application matches a candidate’s resume against a set of job descriptions to find the best-fitting roles. Using TF-IDF vectorization and cosine similarity, the system analyzes semantic similarities between resumes and job postings. Ideal for automating job screening, it’s a strong example of how data science can enhance recruitment workflows.
